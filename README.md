@@ -24,7 +24,7 @@ A sleek and interactive horizontal image gallery built with vanilla JavaScript, 
 
 ## Live Demo
 
-Experience the gallery in action: [https://iam269.github.io/Image-Gallery/](https://iam269.github.io/Image-Gallery/)
+Experience the gallery in action: [https://itsiamdev.github.io/Image-Gallery/](https://itsiamdev.github.io/Image-Gallery/)
 
 ## Technologies Used
 
